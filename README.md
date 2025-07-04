@@ -1,19 +1,28 @@
 ## Hi there 👋
-
 <!--
 **ketan1705/ketan1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## **👋 About Me**
+I'm **Ketan Agrawal**, a passionate Android Developer with 1.5+ years of professional experience building scalable mobile applications. Previously worked as Executive - Mobile Development at Destek Infosolutions Pvt. Ltd., specializing in Java, Kotlin, and Jetpack Compose.
+
+## **🚀 What I Do**
+  - 📱 Android Development with modern architecture patterns (MVVM)
+  - 🔧 API Integration using Retrofit and Firebase services
+  - 🎨 UI Development with Jetpack Compose and Material Design
+  - 📊 Database Management with Room, SQLite, and Firestore
+
+📍 Location: Mauranipur, UP | Open to Remote Work
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-agrawal-executive-mobile-development/) 
@@ -50,8 +59,8 @@ Here are some ideas to get you started:
 ![MVVM](https://img.shields.io/badge/MVVM-6A1B9A?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ketan1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ketan1705&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ketan1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=ketan1705&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketan1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
