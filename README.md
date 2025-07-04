@@ -26,6 +26,8 @@ I'm **Ketan Agrawal**, a passionate Android Developer with 1.5+ years of profess
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-agrawal-executive-mobile-development/) 
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%230077B5.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/a0a45d9e-9c79-4c55-9b47-03ae060fc70a)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
